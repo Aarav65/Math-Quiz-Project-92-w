@@ -1,0 +1,76 @@
+body
+{
+	background: url(download.png);
+}
+
+.login_div1 , .login_div2
+{
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+#lplayer1_name , #lplayer2_name
+{
+	color: yellow;
+	background-color: red;
+}
+
+
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid yellow;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#a
+{
+    width: 150px;
+    height: 150px;
+
+}
+
+label
+{
+	font-size: 30px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#player1_name{
+	color: white ;
+	font-size: 40px;
+}
+
+#player2_name{
+	color: white ;
+	font-size: 40px;
+}
+
+#player_question{
+	color: yellow ;
+	font-size: 30px;
+}
+
+#player_answer{
+	color: yellow ;
+	font-size: 30px;
+}
+
+#player1_score{
+	color: white ;
+	font-size: 40px;
+}
+
+#player2_score{
+	color: white ;
+	font-size: 40px;
+}
